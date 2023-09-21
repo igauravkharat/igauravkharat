@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @igauravkharat
 - 👀 I’m interested in Gaming, Project development, UI designing.
 - 🌱 I’ve completed my graduation in BCA (Bachelor's in Computer Application)
+- 💫 I’ve completed my graduation in MCA (Master's in Computer Application)
 - 💞️ I’m looking to collaborate on S/W development projects
 - 📫 You can reach me at - kharatgaurav17@gmail.com
 
